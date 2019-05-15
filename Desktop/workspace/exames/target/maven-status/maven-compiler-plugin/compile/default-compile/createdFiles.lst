@@ -1,0 +1,6 @@
+br\com\soc\bean\ExameBean.class
+br\com\soc\dao\DataBase.class
+br\com\soc\action\DeleteAction.class
+br\com\soc\action\RegisterAction.class
+br\com\soc\action\ReportAction.class
+br\com\soc\action\UpdateAction.class
